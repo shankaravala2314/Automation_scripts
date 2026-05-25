@@ -1,0 +1,20 @@
+name: Test Script Workflow
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  test-job:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Give Permission
+        run: chmod +x scripts/test_script.sh
+
+      - name: Run Test Script
+        run: ./scripts/test_script.sh
