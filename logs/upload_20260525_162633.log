@@ -1,0 +1,13 @@
+==================================================
+UPLOAD STARTED
+==================================================
+Source      : I:\Part_2\Data\Kanpur\test
+Destination : yotta/genesysintuserbkt01/Kanpur/test
+Log File    : logs/upload_20260525_162633.log
+
+Uploading...
+
+ 0 B / ?  0 B / ?  0 B / ?  0 B / ?  1.10 KiB / 1.10 KiB  5.09 KiB/s 1.10 KiB / 1.10 KiB  5.08 KiB/sI:\Part_2\Data\Kanpur\test\test.txt: 1.10 KiB / 1.10 KiB  4.37 KiB/sI:\Part_2\Data\Kanpur\test\test.txt: 1.10 KiB / 1.10 KiB  4.37 KiB/sI:\Part_2\Data\Kanpur\test\test.txt: 1.10 KiB / 1.10 KiB  2.91 KiB/sI:\Part_2\Data\Kanpur\test\test.txt: 1.10 KiB / 1.10 KiB  2.91 KiB/sI:\Part_2\Data\Kanpur\test\test.txt: 1.10 KiB / 1.10 KiB  2.18 KiB/sI:\Part_2\Data\Kanpur\test\test.txt: 1.10 KiB / 1.10 KiB  2.18 KiB/sI:\Part_2\Data\Kanpur\test\test.txt: 1.10 KiB / 1.10 KiB  1.99 KiB/s 0s
+==================================================
+UPLOAD COMPLETED SUCCESSFULLY
+==================================================
