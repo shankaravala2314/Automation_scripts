@@ -1,0 +1,13 @@
+==================================================
+UPLOAD STARTED
+==================================================
+Source      : I:\Part_2\Data\Kanpur\test
+Destination : sysgrid/store-igenesys/kanpur/test
+Log File    : logs/upload_20260525_120337.log
+
+Uploading...
+
+ 0 B / ?  0 B / ?  1.10 KiB / 1.10 KiB  8.98 KiB/sI:\Part_2\Data\Kanpur\test\Configure_Sysgrid_S3.txt: 1.10 KiB / 1.10 KiB  8.75 KiB/sI:\Part_2\Data\Kanpur\test\Configure_Sysgrid_S3.txt: 1.10 KiB / 1.10 KiB  8.71 KiB/sI:\Part_2\Data\Kanpur\test\Configure_Sysgrid_S3.txt: 1.10 KiB / 1.10 KiB  6.48 KiB/s 0s
+==================================================
+UPLOAD COMPLETED SUCCESSFULLY
+==================================================
